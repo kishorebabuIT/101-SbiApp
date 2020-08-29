@@ -2,4 +2,7 @@ public class Movie
 {
    int id;
    String name;
+ public void mi()
+{
+}
 }
