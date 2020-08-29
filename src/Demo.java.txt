@@ -5,4 +5,7 @@ public class Movie
  public void mi()
 {
 }
+public void m2()
+{
+}
 }
